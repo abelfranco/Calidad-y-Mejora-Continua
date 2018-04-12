@@ -274,7 +274,7 @@ a > .icon:hover, .services article:hover .icon{color:#FFFFFF; background-color:#
 
 
 /* Rows */
-.row0, .row0 a{color:#E0E0E0; background-color:#000000;}
+.row0, .row0 a{color:#546E7A; background-color:#000000;}
 .row1{color:#000000; background-color:#FBC02D;}
 .row2{color:#474747; background-color:#EFEFEF; border-color:#D7D7D7;}
 .row3{color:#474747; background-color:#FFFFFF;}
@@ -308,7 +308,7 @@ a > .icon:hover, .services article:hover .icon{color:#FFFFFF; background-color:#
 
 /* Navigation */
 #mainav li a{color:inherit;}
-#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#616161; background-color:inherit;}
+#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#B71C1C; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(0,0,0,.6); border-color:rgba(0,0,0,.6);}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#00ADEF;}
 #mainav form select{color:#FFFFFF; background-color:#000000;}
