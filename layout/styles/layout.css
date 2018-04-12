@@ -255,7 +255,7 @@ td{border-width:0 1px;}
 body{color:#CBCBCB; background-color:#222222;}
 a{color:#00ADEF;}
 a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
-hr, .borderedbox{border-color:#D7D7D7;}
+hr, .borderedbox{border-color:#FFC107;}
 label span{color:#FF0000; background-color:inherit;}
 input:focus, textarea:focus, *:required:focus{border-color:#00ADEF;}
 
@@ -264,7 +264,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#00ADEF;}
 .overlay.light{color:#474747;}
 .overlay.light::after{background-color:rgba(255,255,255,.9);}
 
-.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#00ADEF; border-color:#00ADEF;}
+.btn, .btn.inverse:hover{color:#000000; background-color:#FFC107; border-color:#E0E0E0;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
 blockquote::before{color:rgba(255,255,255,.2);}
@@ -274,8 +274,8 @@ a > .icon:hover, .services article:hover .icon{color:#FFFFFF; background-color:#
 
 
 /* Rows */
-.row0, .row0 a{color:#546E7A; background-color:#000000;}
-.row1{color:#000000; background-color:#FBC02D;}
+.row0, .row0 a{color:#000000; background-color:#FFC107;}
+.row1{color:#BDBDBD; background-color:#17202A;}
 .row2{color:#474747; background-color:#EFEFEF; border-color:#D7D7D7;}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#CBCBCB; background-color:#222222;}
