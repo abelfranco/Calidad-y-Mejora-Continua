@@ -72,7 +72,7 @@ File: Layout CSS
 .logos li:last-child{margin-bottom:0;}/* Used when elements stack in small viewports */
 .logos li a{display:inline-block; max-width:100%;}
 
-.excerpt{display:inline-block; width:100%; max-width:320px; padding-bottom:20px;}
+.excerpt{display:inline-block; width:250%; max-width:875px; padding-bottom:20px;}
 .excerpt img{}
 .excerpt .excerpttxt{display:block; position:relative; max-width:84%; margin:-40px auto; padding:20px; text-align:center;}
 .excerpt .excerpttxt > ul{margin:0 0 15px 0; padding:0; font-size:.8rem;}
